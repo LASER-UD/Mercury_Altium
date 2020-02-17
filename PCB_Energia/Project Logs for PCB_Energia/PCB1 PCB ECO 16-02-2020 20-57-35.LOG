@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Net1_IN+ Pin=1-IN+
+Removed Pin From Net: NetName=GND Pin=1-IN-
+Removed Pin From Net: NetName=GND Pin=1-OUT-
+Added Component: Designator=?(CP8-ADJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CP8-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "userlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CP8-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "VREG-CP8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_IN+ Pin=?-IN+
+Added Pin To Net: NetName=GND Pin=?-IN-
+Added Pin To Net: NetName=GND Pin=?-OUT-
+Change Net Name : Old Net Name=Net1_IN+ New Net Name=Net?_IN+
+Added Pin To Net: NetName=Net?_OUT+ Pin=?-OUT+
+Added Pin To Net: NetName=Net?_OUT+ Pin=J4-1
+Added Net: Name=Net?_OUT+

@@ -1,0 +1,17 @@
+Added Component: Designator=J6(CONN2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(CONN2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(CONN2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(CONN2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net1_IN+ Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=Net1_IN+ Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J6-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J8-1
+Added Net: Name=NetJ1_1
