@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FEELLEWC
 
 [Document3]
 DocumentPath=IFS_Altium\IFS_Altium\Connectors.PcbLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KUSFUWDE
 
 [Document5]
 DocumentPath=IFS_Altium\IFS_Altium\Diodes.PcbLib
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOQEVPYU
 
 [Document8]
 DocumentPath=IFS_Altium\IFS_Altium\LQFP.PcbLib
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FDIITNUA
 
 [Document10]
 DocumentPath=IFS_Altium\IFS_Altium\PDIP.PcbLib
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YBCWLRYE
 
 [Document14]
 DocumentPath=IFS_Altium\IFS_Altium\SOT.PcbLib
