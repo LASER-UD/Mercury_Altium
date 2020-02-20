@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=3.3V_1 Pin=I2C1-1
+Added Pin To Net: NetName=GND Pin=I2C1-2
+Added Pin To Net: NetName=PB9 Pin=I2C1-3
+Added Pin To Net: NetName=PB8 Pin=I2C1-4
+Added Pin To Net: NetName=GND Pin=I2C2-2
+Added Pin To Net: NetName=PB9 Pin=I2C2-3
+Added Pin To Net: NetName=PB8 Pin=I2C2-4
+Added Pin To Net: NetName=3.3V_1 Pin=I2C3-1
+Added Pin To Net: NetName=GND Pin=I2C3-2
+Added Pin To Net: NetName=PB9 Pin=I2C3-3
+Added Pin To Net: NetName=PB8 Pin=I2C3-4
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=PB8 Pin=U?-SCL
+Added Pin To Net: NetName=PB9 Pin=U?-SDA
+Added Pin To Net: NetName=3.3V_1 Pin=U?-VCC
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Room: Name=PrincipalSCH

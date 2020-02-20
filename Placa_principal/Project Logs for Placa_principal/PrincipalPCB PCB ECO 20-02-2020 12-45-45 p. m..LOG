@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PA6 Pin=MOT1-1
+Added Pin To Net: NetName=PC13 Pin=MOT1-3
+Added Pin To Net: NetName=PA7 Pin=MOT2-1
+Added Pin To Net: NetName=PB1 Pin=MOT3-1
+Added Pin To Net: NetName=PB0 Pin=MOT4-1
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

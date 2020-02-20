@@ -1,0 +1,11 @@
+Added Component: Designator=CONN?(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN?(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(CONN2)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=PrincipalSCH Member=Component CONN? Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component CONN? Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component J? CONN2
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Room: Name=PrincipalSCH

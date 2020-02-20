@@ -1,0 +1,10 @@
+Added Component: Designator=SERV1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SERV2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V_1 Pin=I2C2-1
+Added Member To Class: ClassName=PrincipalSCH Member=Component MOT1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Member To Class: ClassName=PrincipalSCH Member=Component SERV1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component SERV2 Connector
+Added Room: Name=PrincipalSCH

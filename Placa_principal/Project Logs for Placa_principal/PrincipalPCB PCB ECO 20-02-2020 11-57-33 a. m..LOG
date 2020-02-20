@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PB9 Pin=I2C1-3
+Removed Pin From Net: NetName=PB8 Pin=I2C1-4
+Removed Pin From Net: NetName=PB9 Pin=I2C2-3
+Removed Pin From Net: NetName=PB8 Pin=I2C2-4
+Removed Pin From Net: NetName=PB9 Pin=I2C3-3
+Removed Pin From Net: NetName=PB8 Pin=I2C3-4
+Added Pin To Net: NetName=PB8 Pin=I2C1-3
+Added Pin To Net: NetName=PB9 Pin=I2C1-4
+Added Pin To Net: NetName=PB8 Pin=I2C2-3
+Added Pin To Net: NetName=PB9 Pin=I2C2-4
+Added Pin To Net: NetName=PB8 Pin=I2C3-3
+Added Pin To Net: NetName=PB9 Pin=I2C3-4
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

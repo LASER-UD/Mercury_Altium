@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PA2 Pin=SERVO1-1
+Added Pin To Net: NetName=GND Pin=SERVO1-3
+Added Pin To Net: NetName=PA1 Pin=SERVO2-1
+Added Pin To Net: NetName=GND Pin=SERVO2-3
+Added Pin To Net: NetName=5V_F Pin=J1-1
+Added Pin To Net: NetName=5V_F Pin=SERVO1-2
+Added Pin To Net: NetName=5V_F Pin=SERVO2-2
+Added Net: Name=5V_F
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

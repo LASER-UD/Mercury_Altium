@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=3.3V_1 Pin=ENC3-1
+Added Pin To Net: NetName=PA9 Pin=ENC3-2
+Added Pin To Net: NetName=PA8 Pin=ENC3-3
+Added Pin To Net: NetName=GND Pin=ENC3-4
+Added Pin To Net: NetName=3.3V_1 Pin=ENC4-1
+Added Pin To Net: NetName=PB13 Pin=ENC4-2
+Added Pin To Net: NetName=PA10 Pin=ENC4-3
+Added Pin To Net: NetName=GND Pin=ENC4-4
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

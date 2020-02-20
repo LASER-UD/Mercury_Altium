@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PB5 Pin=MOT3-2
+Removed Pin From Net: NetName=PB4 Pin=MOT3-3
+Removed Member From Class: ClassName=PrincipalSCH Member=LUZ
+Added Pin To Net: NetName=PB15 Pin=MOT2-2
+Added Pin To Net: NetName=PB14 Pin=MOT2-3
+Added Pin To Net: NetName=PB4 Pin=MOT3-2
+Added Pin To Net: NetName=PB5 Pin=MOT3-3
+Added Pin To Net: NetName=PB3 Pin=MOT4-2
+Added Pin To Net: NetName=PA15 Pin=MOT4-3
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

@@ -1,0 +1,12 @@
+Added Component: Designator=U?(GY-521)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "GY-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "gy-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "GY-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MPU6050"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PrincipalSCH Member=Component ? STM32F103C8T6 module with ARM Cortex-3, 20kB SRAM, 64kB Flash, 72MHz
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Member To Class: ClassName=PrincipalSCH Member=Component U? GY-521MPU6050
+Added Room: Name=PrincipalSCH

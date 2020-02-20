@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=3.3V_2 Pin=P?-3
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Room: Name=PrincipalSCH

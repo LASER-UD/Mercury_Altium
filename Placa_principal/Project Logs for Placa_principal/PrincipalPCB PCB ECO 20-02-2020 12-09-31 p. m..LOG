@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3.3V_2 Pin=ENC1-1
+Added Pin To Net: NetName=PC15 Pin=ENC1-2
+Added Pin To Net: NetName=PC14 Pin=ENC1-3
+Added Pin To Net: NetName=GND Pin=ENC1-4
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Room: Name=PrincipalSCH

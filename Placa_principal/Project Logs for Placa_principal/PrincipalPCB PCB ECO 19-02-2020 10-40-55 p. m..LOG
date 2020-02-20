@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=3.3V_2 Pin=P?-3
+Added Component: Designator=?(STM32F103C8T6-MODULE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "stm32f103c8t6_module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_1 Pin=?-3.3V_1
+Added Pin To Net: NetName=3.3V_2 Pin=?-3.3V_2
+Added Pin To Net: NetName=5V Pin=?-5V
+Added Pin To Net: NetName=GND_1 Pin=?-GND_1
+Added Pin To Net: NetName=GND Pin=?-GND_2
+Added Pin To Net: NetName=GND Pin=?-GND_3
+Added Pin To Net: NetName=PA0 Pin=?-PA_0
+Added Pin To Net: NetName=PA1 Pin=?-PA_1
+Added Pin To Net: NetName=PA2 Pin=?-PA_2
+Added Pin To Net: NetName=PA3 Pin=?-PA_3
+Added Pin To Net: NetName=PA4 Pin=?-PA_4
+Added Pin To Net: NetName=PA5 Pin=?-PA_5
+Added Pin To Net: NetName=PA6 Pin=?-PA_6
+Added Pin To Net: NetName=PA7 Pin=?-PA_7
+Added Pin To Net: NetName=PA8 Pin=?-PA_8
+Added Pin To Net: NetName=PA9 Pin=?-PA_9
+Added Pin To Net: NetName=PA10 Pin=?-PA_10
+Added Pin To Net: NetName=PA11 Pin=?-PA_11
+Added Pin To Net: NetName=PA12 Pin=?-PA_12
+Added Pin To Net: NetName=PA15 Pin=?-PA_15
+Added Pin To Net: NetName=PB0 Pin=?-PB_0
+Added Pin To Net: NetName=PB1 Pin=?-PB_1
+Added Pin To Net: NetName=PB3 Pin=?-PB_3
+Added Pin To Net: NetName=PB4 Pin=?-PB_4
+Added Pin To Net: NetName=PB5 Pin=?-PB_5
+Added Pin To Net: NetName=PB6 Pin=?-PB_6
+Added Pin To Net: NetName=PB7 Pin=?-PB_7
+Added Pin To Net: NetName=PB8 Pin=?-PB_8
+Added Pin To Net: NetName=PB9 Pin=?-PB_9
+Added Pin To Net: NetName=PB10 Pin=?-PB_10
+Added Pin To Net: NetName=PB11 Pin=?-PB_11
+Added Pin To Net: NetName=PB12 Pin=?-PB_12
+Added Pin To Net: NetName=PB13 Pin=?-PB_13
+Added Pin To Net: NetName=PB14 Pin=?-PB_14
+Added Pin To Net: NetName=PB15 Pin=?-PB_15
+Added Pin To Net: NetName=PC13 Pin=?-PC_13
+Added Pin To Net: NetName=PC14 Pin=?-PC_14
+Added Pin To Net: NetName=PC15 Pin=?-PC_15
+Added Pin To Net: NetName=RESET Pin=?-RESET
+Added Pin To Net: NetName=VB Pin=?-VB
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Room: Name=PrincipalSCH
