@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=IN?-1
+Removed Pin From Net: NetName=GND Pin=IN?-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J7-1
+Added Pin To Net: NetName=VCC Pin=J8-1
+Added Pin To Net: NetName=VCC Pin=SW-1
+Change Net Name : Old Net Name=VCC New Net Name=BATERIA

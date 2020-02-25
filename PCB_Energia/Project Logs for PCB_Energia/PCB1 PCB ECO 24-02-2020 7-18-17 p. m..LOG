@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BATERIA Pin=L1-1
+Removed Pin From Net: NetName=BATERIA Pin=L2-1
+Removed Pin From Net: NetName=BATERIA Pin=L3-1
+Removed Pin From Net: NetName=BATERIA Pin=RC1-2
+Removed Pin From Net: NetName=BATERIA Pin=RC2-2
+Removed Pin From Net: NetName=BATERIA Pin=RC3-2
+Added Pin To Net: NetName=NetJ2_1 Pin=L1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=L2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=L3-1
+Added Pin To Net: NetName=NetJ2_1 Pin=RC1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=RC2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=RC3-2
+Change Net Name : Old Net Name=BATERIA New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=BATERIA

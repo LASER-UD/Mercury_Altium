@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Added Component: Designator=INPUT(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component INPUT Connector
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 TIP31C
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 TIP31C
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 TIP31C
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res1
+Added Room: Name=Sheet1

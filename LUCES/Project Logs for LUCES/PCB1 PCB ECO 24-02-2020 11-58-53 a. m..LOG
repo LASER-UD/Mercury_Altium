@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetINPUT_2 Pin=INPUT-2
+Added Pin To Net: NetName=NetINPUT_2 Pin=R7-1
+Added Net: Name=NetINPUT_2
+Added Pin To Net: NetName=NetINPUT_3 Pin=INPUT-3
+Added Pin To Net: NetName=NetINPUT_3 Pin=R9-1
+Added Net: Name=NetINPUT_3
+Added Room: Name=Sheet1
