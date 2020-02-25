@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=I2C1 NewDesignator=I2C0
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

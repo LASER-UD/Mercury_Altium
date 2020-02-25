@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=?-GND_2
+Removed Pin From Net: NetName=GND Pin=?-GND_3
+Removed Pin From Net: NetName=GND Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=Net?_GND_2 Pin=?-GND_2
+Added Pin To Net: NetName=Net?_GND_2 Pin=P?-2
+Added Net: Name=Net?_GND_2
+Added Pin To Net: NetName=Net?_GND_3 Pin=?-GND_3
+Added Pin To Net: NetName=Net?_GND_3 Pin=P?-1
+Added Net: Name=Net?_GND_3
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

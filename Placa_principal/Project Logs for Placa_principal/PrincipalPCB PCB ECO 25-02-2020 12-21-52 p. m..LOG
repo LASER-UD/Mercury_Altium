@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.3V_1 Pin=I2C0-1
+Added Pin To Net: NetName=3.3V_2 Pin=I2C0-1
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=SERVOS NewDesignator=SERVO2
+Added Pin To Net: NetName=GND Pin=U?-ADO
+Added Pin To Net: NetName=PA0 Pin=U?-INT
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

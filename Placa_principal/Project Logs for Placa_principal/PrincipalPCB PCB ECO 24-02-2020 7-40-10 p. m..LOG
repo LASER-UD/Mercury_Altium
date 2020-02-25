@@ -1,0 +1,8 @@
+Added Component: Designator=I2C1(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V_1 Pin=I2C1-1
+Added Pin To Net: NetName=GND Pin=I2C1-2
+Added Pin To Net: NetName=PB8 Pin=I2C1-3
+Added Pin To Net: NetName=PB9 Pin=I2C1-4
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H

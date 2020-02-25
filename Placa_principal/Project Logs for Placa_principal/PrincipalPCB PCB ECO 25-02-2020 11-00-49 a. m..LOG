@@ -1,0 +1,161 @@
+Added Component: Designator=?(STM32F103C8T6-MODULE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "stm32f103c8t6_module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "STM32F103C8T6-MODULE"; VariantName = "[No Variations]"
+Added Component: Designator=I2C0(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=I2C1(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=I2C2(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=I2C3(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(CONN2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(HDR1X20H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X20H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SERVO2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(GY-521)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "GY-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "gy-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "GY-521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MPU6050"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_1 Pin=?-3.3V_1
+Added Pin To Net: NetName=3.3V_2 Pin=?-3.3V_2
+Added Pin To Net: NetName=5V Pin=?-5V
+Added Pin To Net: NetName=GND Pin=?-GND_1
+Added Pin To Net: NetName=GND Pin=?-GND_2
+Added Pin To Net: NetName=GND Pin=?-GND_3
+Added Pin To Net: NetName=PA0 Pin=?-PA_0
+Added Pin To Net: NetName=PA1 Pin=?-PA_1
+Added Pin To Net: NetName=PA2 Pin=?-PA_2
+Added Pin To Net: NetName=PA3 Pin=?-PA_3
+Added Pin To Net: NetName=PA4 Pin=?-PA_4
+Added Pin To Net: NetName=PA5 Pin=?-PA_5
+Added Pin To Net: NetName=PA6 Pin=?-PA_6
+Added Pin To Net: NetName=PA7 Pin=?-PA_7
+Added Pin To Net: NetName=PA8 Pin=?-PA_8
+Added Pin To Net: NetName=PA9 Pin=?-PA_9
+Added Pin To Net: NetName=PA10 Pin=?-PA_10
+Added Pin To Net: NetName=PA11 Pin=?-PA_11
+Added Pin To Net: NetName=PA12 Pin=?-PA_12
+Added Pin To Net: NetName=PA15 Pin=?-PA_15
+Added Pin To Net: NetName=PB0 Pin=?-PB_0
+Added Pin To Net: NetName=PB1 Pin=?-PB_1
+Added Pin To Net: NetName=PB3 Pin=?-PB_3
+Added Pin To Net: NetName=PB4 Pin=?-PB_4
+Added Pin To Net: NetName=PB5 Pin=?-PB_5
+Added Pin To Net: NetName=PB6 Pin=?-PB_6
+Added Pin To Net: NetName=PB7 Pin=?-PB_7
+Added Pin To Net: NetName=PB8 Pin=?-PB_8
+Added Pin To Net: NetName=PB9 Pin=?-PB_9
+Added Pin To Net: NetName=PB10 Pin=?-PB_10
+Added Pin To Net: NetName=PB11 Pin=?-PB_11
+Added Pin To Net: NetName=PB12 Pin=?-PB_12
+Added Pin To Net: NetName=PB13 Pin=?-PB_13
+Added Pin To Net: NetName=PB14 Pin=?-PB_14
+Added Pin To Net: NetName=PB15 Pin=?-PB_15
+Added Pin To Net: NetName=PC13 Pin=?-PC_13
+Added Pin To Net: NetName=PC14 Pin=?-PC_14
+Added Pin To Net: NetName=PC15 Pin=?-PC_15
+Added Pin To Net: NetName=RESET Pin=?-RESET
+Added Pin To Net: NetName=VB Pin=?-VB
+Added Pin To Net: NetName=3.3V_1 Pin=I2C0-1
+Added Pin To Net: NetName=GND Pin=I2C0-2
+Added Pin To Net: NetName=PB10 Pin=I2C0-3
+Added Pin To Net: NetName=PB11 Pin=I2C0-4
+Added Pin To Net: NetName=3.3V_1 Pin=I2C1-1
+Added Pin To Net: NetName=GND Pin=I2C1-2
+Added Pin To Net: NetName=PB8 Pin=I2C1-3
+Added Pin To Net: NetName=PB9 Pin=I2C1-4
+Added Pin To Net: NetName=3.3V_1 Pin=I2C2-1
+Added Pin To Net: NetName=GND Pin=I2C2-2
+Added Pin To Net: NetName=PB8 Pin=I2C2-3
+Added Pin To Net: NetName=PB9 Pin=I2C2-4
+Added Pin To Net: NetName=3.3V_1 Pin=I2C3-1
+Added Pin To Net: NetName=GND Pin=I2C3-2
+Added Pin To Net: NetName=PB8 Pin=I2C3-3
+Added Pin To Net: NetName=PB9 Pin=I2C3-4
+Added Pin To Net: NetName=5V_F Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=3.3V_1 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=3.3V_2 Pin=P?-3
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Pin To Net: NetName=PB9 Pin=P?-4
+Added Pin To Net: NetName=RESET Pin=P?-4
+Added Pin To Net: NetName=PB8 Pin=P?-5
+Added Pin To Net: NetName=PB11 Pin=P?-5
+Added Pin To Net: NetName=PB7 Pin=P?-6
+Added Pin To Net: NetName=PB10 Pin=P?-6
+Added Pin To Net: NetName=PB1 Pin=P?-7
+Added Pin To Net: NetName=PB6 Pin=P?-7
+Added Pin To Net: NetName=PB0 Pin=P?-8
+Added Pin To Net: NetName=PB5 Pin=P?-8
+Added Pin To Net: NetName=PA7 Pin=P?-9
+Added Pin To Net: NetName=PB4 Pin=P?-9
+Added Pin To Net: NetName=PA6 Pin=P?-10
+Added Pin To Net: NetName=PB3 Pin=P?-10
+Added Pin To Net: NetName=PA5 Pin=P?-11
+Added Pin To Net: NetName=PA15 Pin=P?-11
+Added Pin To Net: NetName=PA4 Pin=P?-12
+Added Pin To Net: NetName=PA12 Pin=P?-12
+Added Pin To Net: NetName=PA3 Pin=P?-13
+Added Pin To Net: NetName=PA11 Pin=P?-13
+Added Pin To Net: NetName=PA2 Pin=P?-14
+Added Pin To Net: NetName=PA10 Pin=P?-14
+Added Pin To Net: NetName=PA1 Pin=P?-15
+Added Pin To Net: NetName=PA9 Pin=P?-15
+Added Pin To Net: NetName=PA0 Pin=P?-16
+Added Pin To Net: NetName=PA8 Pin=P?-16
+Added Pin To Net: NetName=PB15 Pin=P?-17
+Added Pin To Net: NetName=PC15 Pin=P?-17
+Added Pin To Net: NetName=PB14 Pin=P?-18
+Added Pin To Net: NetName=PC14 Pin=P?-18
+Added Pin To Net: NetName=PB13 Pin=P?-19
+Added Pin To Net: NetName=PC13 Pin=P?-19
+Added Pin To Net: NetName=PB12 Pin=P?-20
+Added Pin To Net: NetName=VB Pin=P?-20
+Added Pin To Net: NetName=PA2 Pin=SERVO1-1
+Added Pin To Net: NetName=5V_F Pin=SERVO1-2
+Added Pin To Net: NetName=GND Pin=SERVO1-3
+Added Pin To Net: NetName=PA1 Pin=SERVO2-1
+Added Pin To Net: NetName=5V_F Pin=SERVO2-2
+Added Pin To Net: NetName=GND Pin=SERVO2-3
+Added Pin To Net: NetName=GND Pin=U?-ADO
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=PA0 Pin=U?-INT
+Added Pin To Net: NetName=PB8 Pin=U?-SCL
+Added Pin To Net: NetName=PB9 Pin=U?-SDA
+Added Pin To Net: NetName=3.3V_1 Pin=U?-VCC
+Added Member To Class: ClassName=PrincipalSCH Member=Component ? STM32F103C8T6 module with ARM Cortex-3, 20kB SRAM, 64kB Flash, 72MHz
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C0 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C2 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component I2C3 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component J1 CONN2
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Member To Class: ClassName=PrincipalSCH Member=Component P? Header 20H
+Added Member To Class: ClassName=PrincipalSCH Member=Component SERVO1 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component SERVO2 Connector
+Added Member To Class: ClassName=PrincipalSCH Member=Component U? GY-521MPU6050

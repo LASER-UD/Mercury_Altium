@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Placa_principal.PrjPcb]
+   Generated File[PrincipalPCB.GTO]
+   Generated File[PrincipalPCB.GTL]
+   Generated File[PrincipalPCB.GM1]
+   Generated File[PrincipalPCB.RUL]
+   Generated File[PrincipalPCB.EXTREP]
+   Generated File[PrincipalPCB.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 5:14:33 p. m. On 24/02/2020
