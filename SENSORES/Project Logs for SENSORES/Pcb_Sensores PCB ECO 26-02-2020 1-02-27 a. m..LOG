@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SCL1 Pin=RC1-2
+Removed Pin From Net: NetName=SDA1 Pin=RD1-2
+Removed Pin From Net: NetName=SCL Pin=RSC-2
+Removed Pin From Net: NetName=SDA Pin=RSD-2
+Added Pin To Net: NetName=SDA Pin=OUT1-1
+Added Pin To Net: NetName=SCL Pin=OUT1-2
+Added Pin To Net: NetName=SDA1 Pin=OUT2-1
+Added Pin To Net: NetName=SCL1 Pin=OUT2-2
+Added Pin To Net: NetName=SCL1 Pin=RC1-1
+Added Pin To Net: NetName=VCC Pin=RC1-2
+Added Pin To Net: NetName=SDA1 Pin=RD1-1
+Added Pin To Net: NetName=VCC Pin=RD1-2
+Added Pin To Net: NetName=SCL Pin=RSC-1
+Added Pin To Net: NetName=VCC Pin=RSC-2
+Added Pin To Net: NetName=SDA Pin=RSD-1
+Added Pin To Net: NetName=VCC Pin=RSD-2
+Added Room: Name=Sch_Sensores

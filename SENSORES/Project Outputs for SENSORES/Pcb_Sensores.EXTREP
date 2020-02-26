@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Pcb_Sensores.GBR   26/02/2020  12:13:48 a. m.
+Gerber File Extension Report For: Pcb_Sensores.GBR   26/02/2020  1:16:54 a. m.
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,6 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 .GKO                Keep-Out Layer                          
-.GML                Multi-Layer                             
 .1                  Dielectric 1                            
+.GML                Multi-Layer                             
 ------------------------------------------------------------------------------------------
