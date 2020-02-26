@@ -38,24 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCB_Energia\Sheet1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VRFMYXKP
-
-[Document2]
-DocumentPath=PCB_Energia\PCB1.PcbDoc
+DocumentPath=..\ENERGIA_LUCES\PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,93 +54,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEUGIJWS
 
+[Document2]
+DocumentPath=..\ENERGIA_LUCES\Sch_energia_luces.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRFMYXKP
+
 [Document3]
-DocumentPath=PCB_Energia\Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GYVNPLJN
-
-[Document4]
-DocumentPath=PCB_Energia\PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DHPVGXBB
-
-[Document5]
-DocumentPath=PCB_Energia\Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=PCB_Energia\Job2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=PCB_Energia\temp_gerber.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=PCB_Energia\ENERGIA_LUCES.Cam
+DocumentPath=gerber_energia.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,91 +89,115 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.1
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.1
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.EXTREP
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GBL
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GBO
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GBP
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GBS
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GKO
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM1
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM2
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM3
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM4
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM5
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM7
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM13
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GM15
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GML
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GTL
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GTO
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GML
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GTP
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.GTS
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.REP
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=PCB_Energia\Project Outputs for PCB_Energia\PCB1.RUL
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PCB_ENERGIA_LUCES\PCB1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -566,6 +505,10 @@ OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -590,7 +533,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16842751~1,16973835~1,16973833~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
