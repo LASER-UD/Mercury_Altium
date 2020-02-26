@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=ENC3-4
+Added Pin To Net: NetName=GND1 Pin=ENC3-4
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H
+Added Room: Name=placaMotoresSch

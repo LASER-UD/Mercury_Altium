@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=3.3V_1 Pin=ENC1-1
+Removed Pin From Net: NetName=GND Pin=ENC1-4
+Removed Pin From Net: NetName=GND Pin=ENC2-4
+Added Component: Designator=MOT1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT3(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT4(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA6 Pin=MOT1-1
+Added Pin To Net: NetName=PA5 Pin=MOT1-2
+Added Pin To Net: NetName=PB12 Pin=MOT1-3
+Added Pin To Net: NetName=PA7 Pin=MOT2-1
+Added Pin To Net: NetName=PB15 Pin=MOT2-2
+Added Pin To Net: NetName=PB14 Pin=MOT2-3
+Added Pin To Net: NetName=PB1 Pin=MOT3-1
+Added Pin To Net: NetName=PB4 Pin=MOT3-2
+Added Pin To Net: NetName=PB5 Pin=MOT3-3
+Added Pin To Net: NetName=PB0 Pin=MOT4-1
+Added Pin To Net: NetName=PB3 Pin=MOT4-2
+Added Pin To Net: NetName=PA15 Pin=MOT4-3
+Added Pin To Net: NetName=3.3V_2 Pin=ENC1-1
+Added Pin To Net: NetName=3.3V_2 Pin=P?-3
+Added Net: Name=3.3V_2
+Added Pin To Net: NetName=GND1 Pin=ENC1-4
+Added Pin To Net: NetName=GND1 Pin=ENC2-4
+Added Pin To Net: NetName=GND1 Pin=P?-1
+Added Pin To Net: NetName=GND1 Pin=P?-2
+Added Net: Name=GND1
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT1 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT2 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT4 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H

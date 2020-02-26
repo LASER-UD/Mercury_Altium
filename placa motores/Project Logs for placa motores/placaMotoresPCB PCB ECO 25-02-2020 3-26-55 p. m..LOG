@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3.3V_2 Pin=ENC1-1
+Removed Pin From Net: NetName=3.3V_2 Pin=ENC2-1
+Removed Pin From Net: NetName=3.3V_1 Pin=ENC3-1
+Removed Pin From Net: NetName=3.3V_1 Pin=ENC4-1
+Added Pin To Net: NetName=3.3V_1 Pin=ENC1-1
+Added Pin To Net: NetName=3.3V_1 Pin=ENC2-1
+Added Pin To Net: NetName=3.3V_2 Pin=ENC3-1
+Added Pin To Net: NetName=3.3V_2 Pin=ENC4-1
+Added Member To Class: ClassName=placaMotoresSch Member=Component ENC2 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H

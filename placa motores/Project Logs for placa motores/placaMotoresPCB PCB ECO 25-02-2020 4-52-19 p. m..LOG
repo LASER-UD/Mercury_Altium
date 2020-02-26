@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3.3V_1 Pin=ENC1-1
+Added Pin To Net: NetName=GND Pin=ENC1-4
+Added Pin To Net: NetName=3.3V_1 Pin=ENC2-1
+Added Pin To Net: NetName=GND Pin=ENC2-4
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H
+Added Room: Name=placaMotoresSch

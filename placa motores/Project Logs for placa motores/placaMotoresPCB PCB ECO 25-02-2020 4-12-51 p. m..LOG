@@ -1,0 +1,33 @@
+Added Component: Designator=ENC3(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT3(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MOT4(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V_1 Pin=ENC3-1
+Added Pin To Net: NetName=PA10 Pin=ENC3-2
+Added Pin To Net: NetName=PA9 Pin=ENC3-3
+Added Pin To Net: NetName=GND Pin=ENC3-4
+Added Pin To Net: NetName=PA6 Pin=MOT1-1
+Added Pin To Net: NetName=PA5 Pin=MOT1-2
+Added Pin To Net: NetName=PB12 Pin=MOT1-3
+Added Pin To Net: NetName=PA7 Pin=MOT2-1
+Added Pin To Net: NetName=PB15 Pin=MOT2-2
+Added Pin To Net: NetName=PB14 Pin=MOT2-3
+Added Pin To Net: NetName=PB1 Pin=MOT3-1
+Added Pin To Net: NetName=PB4 Pin=MOT3-2
+Added Pin To Net: NetName=PB5 Pin=MOT3-3
+Added Pin To Net: NetName=PB0 Pin=MOT4-1
+Added Pin To Net: NetName=PB3 Pin=MOT4-2
+Added Pin To Net: NetName=PA15 Pin=MOT4-3
+Added Member To Class: ClassName=placaMotoresSch Member=Component ENC3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT1 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT2 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT4 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H
+Added Room: Name=placaMotoresSch

@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=ENC? NewDesignator=ENC1
+Change Component Designator: OldDesignator=ENC? NewDesignator=ENC2
+Change Component Designator: OldDesignator=ENC? NewDesignator=ENC3
+Change Component Designator: OldDesignator=ENC? NewDesignator=ENC4
+Change Component Designator: OldDesignator=MOT? NewDesignator=MOT1
+Change Component Designator: OldDesignator=MOT? NewDesignator=MOT2
+Change Component Designator: OldDesignator=MOT? NewDesignator=MOT3
+Change Component Designator: OldDesignator=MOT? NewDesignator=MOT4
+Added Member To Class: ClassName=placaMotoresSch Member=Component ENC1 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component ENC3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component ENC4 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT1 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT2 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component MOT3 Connector
+Added Member To Class: ClassName=placaMotoresSch Member=Component P? Header 20H
