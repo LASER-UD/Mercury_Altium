@@ -1,0 +1,11 @@
+Added Component: Designator=CONN?(1x16x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN?(1x16x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCONN?_1 Pin=CONN?-1
+Added Pin To Net: NetName=NetCONN?_1 Pin=NANO-30
+Added Pin To Net: NetName=NetCONN?_1 Pin=VCC_AR-1
+Added Net: Name=NetCONN?_1
+Added Pin To Net: NetName=NetCONN?_2 Pin=CONN?-2
+Added Pin To Net: NetName=NetCONN?_2 Pin=NANO-3
+Added Net: Name=NetCONN?_2

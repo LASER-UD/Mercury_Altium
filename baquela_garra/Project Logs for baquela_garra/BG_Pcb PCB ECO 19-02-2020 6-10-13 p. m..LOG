@@ -1,0 +1,10 @@
+Added Component: Designator=CONN?(1x6x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P14 Pin=CONN?-2
+Added Pin To Net: NetName=P15 Pin=CONN?-3
+Added Pin To Net: NetName=GND Pin=CONN?-4
+Added Pin To Net: NetName=POT5 Pin=CONN?-5
+Added Pin To Net: NetName=en Pin=CONN?-6
+Added Net: Name=en
+Added Pin To Net: NetName=state Pin=CONN?-1
+Added Net: Name=state

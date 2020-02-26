@@ -1,0 +1,5 @@
+Added Component: Designator=C_LUCES(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=L1 Pin=C_LUCES-1
+Added Pin To Net: NetName=L2 Pin=C_LUCES-2
+Added Pin To Net: NetName=L3 Pin=C_LUCES-3

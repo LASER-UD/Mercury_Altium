@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetLASER_1 Pin=Q1-3
+Added Component: Designator=Q?(TO92-2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetLASER_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R3-2
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R2-1
+Added Net: Name=NetQ?_3

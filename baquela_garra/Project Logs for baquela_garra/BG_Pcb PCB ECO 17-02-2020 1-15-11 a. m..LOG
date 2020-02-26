@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC_VCC_BOR_2 New Net Name=BORNERA5
+Change Net Name : Old Net Name=NetC_VCC_USB_2 New Net Name=USB5
+Change Net Name : Old Net Name=NetCONN?_16 New Net Name=P1
+Added Pin To Net: NetName=P15 Pin=CONN?-2
+Added Net: Name=P15

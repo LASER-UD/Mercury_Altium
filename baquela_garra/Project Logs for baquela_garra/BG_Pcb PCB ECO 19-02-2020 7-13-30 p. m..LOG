@@ -1,0 +1,203 @@
+Added Component: Designator=A1(1x16x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A2(1x16x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BLUE(1x6x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BOR(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN?(1x4x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(PHOE-1729128-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current Rating"; Value = "13500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "12/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body 8.1 x 10.16 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1729128-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/b1/3VdJjqNKFDxLH8AFycySyWY2ozFsEPOMMQaDOX1XedGL_1Vdm5YXJleknhSKeBkvI6EA8ncAo3AYoDhBQGco6KN7VURTdemj9us_IEKEZo_YHiPAEWEFmDGOHMORkqKYCORBZxgL7ZoaZYcbFFUZ3fqxSY6GOuxydWUuHqz1ynmMFygu583Bob0Ewr6Sd_l-5m-kAueHiB0jpRwZwe58wwtkpxtMYd_LmGcDRU02dRNEyWt6Y2ti5pSyJ_reIkzIulrqApdnbT11V5jnCKbYNCvhEM1MCpPByat_X379-iThf08CI5GfOPqfBeS3BRoBOdD55AKVv0iLwCMq-2BrzXWSGRH7pUGD9uwXQjiph3xL0DKQwdGa0JImiIOmBNOestqgwTHSSs2oOep-78apyXQBvNi8ZLaFjvjWvcaUEBu0MC6Wbe-d6mB0FAebo2lUWinqYaZs5DAYzV0RP9yitUjnGJ0iI9xhZkT42OCQNUJJhkgWINNQLP2JFP6OpMg3JCVg70jqHT0lvKOnhHf0lPuOnnLf0VPuWx6_dxwUIvwk5WMkT0kLL1mh61l2yZVSzG3pYV_bqo-mj6uMKwKwdnnW8Jh5RTOJzMOA5c-eJDaZQw4mTMPH02PvS_ZAqNVjVTo2WyYLkwH_KU1mmmG5kjRhDqPXLwwVHvVOjCM60-fpXvTDfMGW1PVFVS1r4e4yVDk4ZdNbkUHvqPqQSeian4UD39fNKmachqdJ1NJbyk8rXT9mXTvPk3oE5meulKGgiruPJek-4I9hTT6G8ZLOyRSm2RRVbThERQad5OS28hdt4YW4vG0stgYYzsWsK4_7y6DZMjJSCqri1kyiZR5vD7pwIrNR7QwPHTcLTI5qT7eRlpHrdGiupYlqQDJ7zy_CND8fWWBoLRXxk1RVcXiBQwbTD4Xi7KL-FuO94t9xaqweXzH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Added Component: Designator=LASER(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LS(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MICROUSB(1x5x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NANO(*SHIELD_ARDUINO_NANO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20NANO/Arduino/view-part/1128261/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ON(LED Red 3mm TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q(TO92-2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=USB(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VCC_AR(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P1_1 Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-2
+Added Pin To Net: NetName=P2_1 Pin=A1-3
+Added Pin To Net: NetName=P3_1 Pin=A1-4
+Added Pin To Net: NetName=P4_1 Pin=A1-5
+Added Pin To Net: NetName=P5_1 Pin=A1-6
+Added Pin To Net: NetName=P6_1 Pin=A1-7
+Added Pin To Net: NetName=P7_1 Pin=A1-8
+Added Pin To Net: NetName=P8_1 Pin=A1-9
+Added Pin To Net: NetName=P9_1 Pin=A1-10
+Added Pin To Net: NetName=P10_1 Pin=A1-11
+Added Pin To Net: NetName=P11_1 Pin=A1-12
+Added Pin To Net: NetName=P12_1 Pin=A1-13
+Added Pin To Net: NetName=P13_1 Pin=A1-14
+Added Pin To Net: NetName=P14_1 Pin=A1-15
+Added Pin To Net: NetName=P15 Pin=A2-1
+Added Pin To Net: NetName=P14 Pin=A2-2
+Added Pin To Net: NetName=P13 Pin=A2-3
+Added Pin To Net: NetName=GND Pin=A2-4
+Added Pin To Net: NetName=P11 Pin=A2-5
+Added Pin To Net: NetName=P10 Pin=A2-6
+Added Pin To Net: NetName=P9 Pin=A2-7
+Added Pin To Net: NetName=P8 Pin=A2-8
+Added Pin To Net: NetName=P7 Pin=A2-9
+Added Pin To Net: NetName=P6 Pin=A2-10
+Added Pin To Net: NetName=P5 Pin=A2-11
+Added Pin To Net: NetName=P4 Pin=A2-12
+Added Pin To Net: NetName=P3 Pin=A2-13
+Added Pin To Net: NetName=P2 Pin=A2-14
+Added Pin To Net: NetName=P1 Pin=A2-15
+Added Pin To Net: NetName=state Pin=BLUE-1
+Added Pin To Net: NetName=P14 Pin=BLUE-2
+Added Pin To Net: NetName=P15 Pin=BLUE-3
+Added Pin To Net: NetName=GND Pin=BLUE-4
+Added Pin To Net: NetName=POT5 Pin=BLUE-5
+Added Pin To Net: NetName=en Pin=BLUE-6
+Added Pin To Net: NetName=POT5 Pin=BOR-1
+Added Pin To Net: NetName=BORNERA5 Pin=BOR-2
+Added Pin To Net: NetName=P10 Pin=C1-1
+Added Pin To Net: NetName=POT5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-3
+Added Pin To Net: NetName=P8 Pin=C2-1
+Added Pin To Net: NetName=POT5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-3
+Added Pin To Net: NetName=P7 Pin=C3-1
+Added Pin To Net: NetName=POT5 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C3-3
+Added Pin To Net: NetName=P4 Pin=C4-1
+Added Pin To Net: NetName=POT5 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C4-3
+Added Pin To Net: NetName=P3 Pin=C5-1
+Added Pin To Net: NetName=POT5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C5-3
+Added Pin To Net: NetName=P2 Pin=C6-1
+Added Pin To Net: NetName=POT5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C6-3
+Added Pin To Net: NetName=P1 Pin=CONN?-3
+Added Pin To Net: NetName=NetCONN?_4 Pin=CONN?-4
+Added Pin To Net: NetName=BORNERA5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetLASER_1 Pin=LASER-1
+Added Pin To Net: NetName=GND Pin=LASER-2
+Added Pin To Net: NetName=NetLS_1 Pin=LS-1
+Added Pin To Net: NetName=P14_1 Pin=LS-2
+Added Pin To Net: NetName=GND Pin=MICROUSB-1
+Added Pin To Net: NetName=USB5 Pin=MICROUSB-5
+Added Pin To Net: NetName=P15 Pin=NANO-1
+Added Pin To Net: NetName=P14 Pin=NANO-2
+Added Pin To Net: NetName=P13 Pin=NANO-3
+Added Pin To Net: NetName=GND Pin=NANO-4
+Added Pin To Net: NetName=P11 Pin=NANO-5
+Added Pin To Net: NetName=P10 Pin=NANO-6
+Added Pin To Net: NetName=P9 Pin=NANO-7
+Added Pin To Net: NetName=P8 Pin=NANO-8
+Added Pin To Net: NetName=P7 Pin=NANO-9
+Added Pin To Net: NetName=P6 Pin=NANO-10
+Added Pin To Net: NetName=P5 Pin=NANO-11
+Added Pin To Net: NetName=P4 Pin=NANO-12
+Added Pin To Net: NetName=P3 Pin=NANO-13
+Added Pin To Net: NetName=P2 Pin=NANO-14
+Added Pin To Net: NetName=P1 Pin=NANO-15
+Added Pin To Net: NetName=P14_1 Pin=NANO-16
+Added Pin To Net: NetName=P13_1 Pin=NANO-17
+Added Pin To Net: NetName=P12_1 Pin=NANO-18
+Added Pin To Net: NetName=P11_1 Pin=NANO-19
+Added Pin To Net: NetName=P10_1 Pin=NANO-20
+Added Pin To Net: NetName=P9_1 Pin=NANO-21
+Added Pin To Net: NetName=P8_1 Pin=NANO-22
+Added Pin To Net: NetName=P7_1 Pin=NANO-23
+Added Pin To Net: NetName=P6_1 Pin=NANO-24
+Added Pin To Net: NetName=P5_1 Pin=NANO-25
+Added Pin To Net: NetName=P4_1 Pin=NANO-26
+Added Pin To Net: NetName=P3_1 Pin=NANO-27
+Added Pin To Net: NetName=P2_1 Pin=NANO-28
+Added Pin To Net: NetName=GND Pin=NANO-29
+Added Pin To Net: NetName=P1_1 Pin=NANO-30
+Added Pin To Net: NetName=GND Pin=ON-1
+Added Pin To Net: NetName=NetON_2 Pin=ON-2
+Added Pin To Net: NetName=NetLASER_1 Pin=Q-1
+Added Pin To Net: NetName=NetQ_2 Pin=Q-2
+Added Pin To Net: NetName=NetQ_3 Pin=Q-3
+Added Pin To Net: NetName=NetCONN?_4 Pin=R1-1
+Added Pin To Net: NetName=NetON_2 Pin=R1-2
+Added Pin To Net: NetName=NetQ_3 Pin=R2-1
+Added Pin To Net: NetName=POT5 Pin=R2-2
+Added Pin To Net: NetName=NetLS_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ_2 Pin=R3-2
+Added Pin To Net: NetName=POT5 Pin=USB-1
+Added Pin To Net: NetName=USB5 Pin=USB-2
+Added Pin To Net: NetName=P1_1 Pin=VCC_AR-1
+Added Pin To Net: NetName=POT5 Pin=VCC_AR-2

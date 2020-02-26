@@ -1,0 +1,13 @@
+Change Component Description : Designator=NANO Old Description=ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board New Description=
+ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board
+
+Added Component: Designator=C_LUCES(1x3x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=L1 Pin=A2-10
+Added Pin To Net: NetName=L1 Pin=C_LUCES-1
+Added Pin To Net: NetName=L1 Pin=NANO-10
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=C_LUCES-2
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=C_LUCES-3
+Added Net: Name=L3

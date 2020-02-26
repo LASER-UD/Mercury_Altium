@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=P2 Pin=C6-1
+Removed Pin From Net: NetName=P2 Pin=NANO-14
+Change Net Name : Old Net Name=NetC1_1 New Net Name=PWM1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=POT5
+Change Net Name : Old Net Name=NetC2_1 New Net Name=PWM2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=PWM3
+Change Net Name : Old Net Name=NetC4_1 New Net Name=PWM4
+Change Net Name : Old Net Name=NetC5_1 New Net Name=PWM5
+Added Pin To Net: NetName=PWM6 Pin=C6-1
+Added Pin To Net: NetName=PWM6 Pin=NANO-14
+Added Net: Name=PWM6

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetCONN?_13 Pin=CONN?-14
+Removed Pin From Net: NetName=NetCONN?_13 Pin=NANO-17
+Added Pin To Net: NetName=NetCONN?_14 Pin=CONN?-14
+Added Pin To Net: NetName=NetCONN?_14 Pin=NANO-17
+Added Net: Name=NetCONN?_14

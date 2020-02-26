@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P1 Pin=C_LED-3
+Change Component Footprint: Designator=C_LED Old Footprint=1x4x2.54 Pin Header TH V New Footprint=1x2x2.54 Pin Header TH V
+Added Pin To Net: NetName=P1 Pin=C_LED-1
+Added Pin To Net: NetName=NetC_LED_2 Pin=C_LED-2
+Added Pin To Net: NetName=NetC_LED_2 Pin=R1-1
+Added Net: Name=NetC_LED_2

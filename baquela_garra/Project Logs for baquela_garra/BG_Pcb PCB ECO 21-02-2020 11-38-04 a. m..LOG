@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=P14 Pin=BLUE-2
+Removed Pin From Net: NetName=P15 Pin=BLUE-3
+Added Component: Designator=(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P14 Pin=-1
+Added Pin To Net: NetName=P15 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=BLUE-2
+Added Net: Name=Net_2

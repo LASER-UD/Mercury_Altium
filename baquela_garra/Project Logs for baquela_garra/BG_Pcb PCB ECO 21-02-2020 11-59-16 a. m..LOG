@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=LAS-2
+Added Component: Designator=LASER(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=LASER-2
+Added Pin To Net: NetName=NetLASER_1 Pin=LASER-1
+Added Pin To Net: NetName=NetLASER_1 Pin=Q-1
+Added Net: Name=NetLASER_1
