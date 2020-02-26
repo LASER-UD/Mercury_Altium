@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=C_VCC_BOR-2
+Removed Pin From Net: NetName=VCC Pin=C_VCC_USB-2
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=MICROUSB-5
+Change Component Description : Designator=TB1 Old Description=ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board New Description=
+ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board
+
+Added Pin To Net: NetName=NetC_VCC_BOR_2 Pin=C_VCC_BOR-2
+Added Pin To Net: NetName=NetC_VCC_BOR_2 Pin=J1-1
+Added Net: Name=NetC_VCC_BOR_2
+Added Pin To Net: NetName=NetC_VCC_USB_2 Pin=C_VCC_USB-2
+Added Pin To Net: NetName=NetC_VCC_USB_2 Pin=MICROUSB-5
+Added Net: Name=NetC_VCC_USB_2

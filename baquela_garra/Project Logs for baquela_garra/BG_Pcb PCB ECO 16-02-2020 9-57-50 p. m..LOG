@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=ON
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetON_2

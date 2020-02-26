@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=P15 Pin=R3-1
+Change Component Designator: OldDesignator=CONN? NewDesignator=A1
+Change Component Designator: OldDesignator=CONN? NewDesignator=A2
+Change Component Description : Designator=NANO Old Description=ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board New Description=
+ATmega328 Arduino Nano AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board
+
+Added Component: Designator=LS(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P15 Pin=LS-2
+Added Pin To Net: NetName=NetLS_1 Pin=LS-1
+Added Pin To Net: NetName=NetLS_1 Pin=R3-1
+Added Net: Name=NetLS_1

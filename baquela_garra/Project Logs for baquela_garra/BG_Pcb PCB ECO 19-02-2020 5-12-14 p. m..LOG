@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=C_VCC_BOR NewDesignator=BOR
+Change Component Designator: OldDesignator=C_VCC_USB NewDesignator=USB

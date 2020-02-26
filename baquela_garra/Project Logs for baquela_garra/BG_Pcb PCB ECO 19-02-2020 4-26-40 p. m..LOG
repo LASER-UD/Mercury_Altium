@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P3_1 Pin=CONN?-1
+Change Component Footprint: Designator=CONN? Old Footprint=1x2x2.54 Pin Header TH V New Footprint=1x4x2.54 Pin Header TH V
+Added Pin To Net: NetName=P3_1 Pin=CONN?-3
+Added Pin To Net: NetName=NetCONN?_4 Pin=CONN?-4
+Added Pin To Net: NetName=NetCONN?_4 Pin=R1-1
+Added Net: Name=NetCONN?_4

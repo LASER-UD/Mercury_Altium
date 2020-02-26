@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=P3_1 Pin=R1-1
+Added Component: Designator=CONN?(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P3_1 Pin=CONN?-1
+Added Pin To Net: NetName=NetCONN?_2 Pin=CONN?-2
+Added Pin To Net: NetName=NetCONN?_2 Pin=R1-1
+Added Net: Name=NetCONN?_2
